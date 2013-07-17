@@ -2,6 +2,7 @@
   "name": "attrchange",
   "repo": "virtru/attrchange",
   "version": "0.0.1",
+  "license": "MIT",
   "dependencies": {
     "component/jquery": "*"
   },
