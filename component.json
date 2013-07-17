@@ -1,0 +1,19 @@
+{
+  "name": "attrchange",
+  "repo": "virtru/attrchange",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {
+    "virtru-components/q": "*",
+    "virtru-components/mocha-promises-kit": "*"
+  },
+  "scripts": [
+    "index.js",
+    "attr-change.js"
+  ],
+  "testScripts": [
+    "tests/attr-change-test.js"
+  ]
+}
