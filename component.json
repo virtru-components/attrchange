@@ -1,10 +1,10 @@
 {
   "name": "attrchange",
   "repo": "virtru/attrchange",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "dependencies": {
-    "components/jquery": "1.9.1"
+    "virtru-components/jquery": "2.1.0"
   },
   "development": {
     "virtru-components/q": "*",
